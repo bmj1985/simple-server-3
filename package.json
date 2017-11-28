@@ -1,0 +1,28 @@
+{
+  "name": "simple-server-3",
+  "version": "1.0.0",
+  "description": "simple server 3 practice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmj1985/simple-server-3.git"
+  },
+  "author": "Brandon Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmj1985/simple-server-3/issues"
+  },
+  "homepage": "https://github.com/bmj1985/simple-server-3#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "heroku": "^0.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.0"
+  }
+}
